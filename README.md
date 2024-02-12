@@ -1,2 +1,3 @@
 # BUT-FIT-MSP-2
-The second project for the course MSP at BUT FIT.
+The second project for the course MSP at BUT FIT - Bayesian estimation and regression.
+
